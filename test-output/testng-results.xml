@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-08T17:02:38 PST" name="Testing Google Apps" finished-at="2023-12-08T17:03:02 PST" duration-ms="23652">
+    <groups>
+    </groups>
+    <test started-at="2023-12-08T17:02:38 PST" name="Regression" finished-at="2023-12-08T17:03:02 PST" duration-ms="23652">
+      <class name="Assessment.Cases_010">
+        <test-method is-config="true" signature="init()[pri:0, instance:Assessment.Cases_010@3c72f59f]" started-at="2023-12-08T17:02:38 PST" name="init" finished-at="2023-12-08T17:02:48 PST" duration-ms="9745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="All_element_presents()[pri:0, instance:Assessment.Cases_010@3c72f59f]" started-at="2023-12-08T17:02:48 PST" name="All_element_presents" finished-at="2023-12-08T17:02:56 PST" duration-ms="7612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- All_element_presents -->
+        <test-method signature="search_branch()[pri:0, instance:Assessment.Cases_010@3c72f59f]" started-at="2023-12-08T17:02:56 PST" name="search_branch" finished-at="2023-12-08T17:03:00 PST" duration-ms="4241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_branch -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:Assessment.Cases_010@3c72f59f]" started-at="2023-12-08T17:03:00 PST" name="closing" finished-at="2023-12-08T17:03:02 PST" duration-ms="2020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- Assessment.Cases_010 -->
+    </test> <!-- Regression -->
+  </suite> <!-- Testing Google Apps -->
+</testng-results>
