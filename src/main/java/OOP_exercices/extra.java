@@ -13,6 +13,6 @@ public class extra {
 
 
     public void printOnConsole(String chain){
-        System.out.println("the final result is:  "+chain);
+        System.out.println("the final result is:  "+chain+" as Total");
     }
 }
